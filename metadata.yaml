@@ -1,0 +1,36 @@
+_repo: The-Clever-Woman-of-the-Family_3292
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, C. M. (Charlotte Mary)
+    - Yonge, Charlotte Mary
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: '" ... Focuses on a group of women in a small seaside community [in England].
+  It is the early 1860s, and British women outnumber men to such an extent that not
+  all women can expect to marry. Rachel Curtis, the clever woman of the title, is
+  an opinionated young woman whose yearning for a "mission" in life leads to tragicomic
+  results."--Back cover.'
+gutenberg_issued: '2002-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3292'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sex role -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Single women -- Fiction'
+- !lcsh 'Women -- England -- Fiction'
+- GITenberg
+title: The Clever Woman of the Family
+url: http://www.gutenberg.org/ebooks/3292
